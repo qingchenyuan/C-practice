@@ -17,3 +17,18 @@
 	 return(0);
  }
  
+ /*
+The number of bits in a byte 8
+The minimum value of SIGNED CHAR = -128
+The maximum value of SIGNED CHAR = 127
+The maximum value of UNSIGNED CHAR = 255
+The minimum value of SHORT INT = -32768
+The maximum value of SHORT INT = 32767
+The minimum value of INT = -32768
+The maximum value of INT = 32767
+The minimum value of CHAR = -128
+The maximum value of CHAR = 127
+The minimum value of LONG = -2147483648
+The maximum value of LONG = 2147483647
+
+ */
